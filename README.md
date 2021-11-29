@@ -23,7 +23,16 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Imagem do projeto
+## Imagens do projeto (Primeira Versão - AF1)
 
 <img src="af.png">
+
+## Segunda Versão (AF2)
+
+<img src="imagem1.jpg">
+<img src="imagem2.jpg">
+<img src="imagem3.jpg">
+<img src="imagem4.jpg">
+ 
+
 
