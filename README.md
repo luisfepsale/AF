@@ -33,6 +33,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <img src="Imagem2.jpg">
 <img src="Imagem3.jpg">
 <img src="imagem4.jpg">
+
+## Terceira Versão (AF3) 
+### Api utilizada: "https://jsonplaceholder.typicode.com/users";
+
+<img src="imagem5.jpg">
+
+
  
 
 

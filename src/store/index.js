@@ -1,9 +1,13 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 
+
 Vue.use(Vuex)
 
+
+
 export default new Vuex.Store({
+
   state: {
     cards: [
       { title: "HTML", level: "intermediário", image: "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" },

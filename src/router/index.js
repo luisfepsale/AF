@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 import Cursos from '../views/Cursos.vue'
 import Carreira from '../views/Carreira.vue'
 import Perfil from '../views/Perfil.vue'
+import Api from '../views/Api.vue'
 
 
 Vue.use(VueRouter)
@@ -28,6 +29,11 @@ const routes = [
     path: '/Cursos',
     name: 'Cursos',
     component: Cursos
+  },
+  {
+    path: '/Api',
+    name: 'Api',
+    component: Api
   },
 ]
 

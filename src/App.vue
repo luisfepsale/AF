@@ -49,6 +49,11 @@
         address: "/Cursos",
         icon: "mdi-star",
       },
+      {
+        title: "Api",
+        address: "/Api",
+        icon: "mdi-star",
+      },
     ],
        titleView:this.$store.state.cards
         
